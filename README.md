@@ -1,5 +1,5 @@
-#How to develop a data-analysis watchdog:
-#R + Python + Bash
+#Tutorial: How to develop a data-analysis watchdog:
+#			R + Python + Bash						
 
 ##Author: Tamer Soliman
 
